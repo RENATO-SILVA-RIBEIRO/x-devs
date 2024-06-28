@@ -17,7 +17,6 @@ btnAvancar.addEventListener("click", function(){
     mostrarCartao();
 });
 
-/* parte dois */
 
 btnVoltar.addEventListener("click", function(){
     
@@ -32,7 +31,7 @@ btnVoltar.addEventListener("click", function(){
 });
 
 
-/* parte tres */
+
 
 
 
