@@ -1,0 +1,11 @@
+/* o arquivo reset reseta estilos que vem com padroes*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;/* reseta intens na lista*/
+}
+
